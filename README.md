@@ -8,7 +8,7 @@
 </div>
 <br>
 
-Programmer/Developer/
+Programmer/Developer/Designer
 
 ## CONTATO:
 - [gabriel.apoomr@gmail.com]()
